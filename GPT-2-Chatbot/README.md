@@ -40,10 +40,6 @@ $ python run_bot.py --type=dialogue
 
 ### 2. Deploy the bot
 
-#### Google Colab
-
-[A Colab interactive notebook](https://colab.research.google.com/github/polakowo/gpt2bot/blob/master/Demo.ipynb)
-
 #### Locally
 
 To get started, first clone this repo:
